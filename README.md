@@ -13,3 +13,9 @@ Incident Response and Service Level Agreements(SLA):
 during incident, response is driven by urgency within PagerDuty(2 settings):
 - High urgency is a “full” page and means that it must be acknowledge and triaged immediately
 - Low urgency is an email only page by default, and refers to business day suppo
+
+Post Incident Process:
+- incident resolved
+- finding incident in postmortem wizard and link(entry over there is already created n filled)
+- postmortem ambassador(to fill doc before meeting)
+- schedule a meeting
